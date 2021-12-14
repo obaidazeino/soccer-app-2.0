@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/soccer-app/static/css/main.74145600.chunk.css",
-    "main.js": "/soccer-app/static/js/main.237926fd.chunk.js",
-    "main.js.map": "/soccer-app/static/js/main.237926fd.chunk.js.map",
-    "runtime-main.js": "/soccer-app/static/js/runtime-main.873fe42b.js",
-    "runtime-main.js.map": "/soccer-app/static/js/runtime-main.873fe42b.js.map",
-    "static/js/2.9680fa02.chunk.js": "/soccer-app/static/js/2.9680fa02.chunk.js",
-    "static/js/2.9680fa02.chunk.js.map": "/soccer-app/static/js/2.9680fa02.chunk.js.map",
-    "static/js/3.eb74347e.chunk.js": "/soccer-app/static/js/3.eb74347e.chunk.js",
-    "static/js/3.eb74347e.chunk.js.map": "/soccer-app/static/js/3.eb74347e.chunk.js.map",
-    "index.html": "/soccer-app/index.html",
-    "static/css/main.74145600.chunk.css.map": "/soccer-app/static/css/main.74145600.chunk.css.map",
-    "static/js/2.9680fa02.chunk.js.LICENSE.txt": "/soccer-app/static/js/2.9680fa02.chunk.js.LICENSE.txt",
-    "static/media/logo.d0704842.svg": "/soccer-app/static/media/logo.d0704842.svg",
-    "static/media/right-pattern.fa64ebf7.svg": "/soccer-app/static/media/right-pattern.fa64ebf7.svg"
+    "main.css": "/soccer-app-2.0/static/css/main.74145600.chunk.css",
+    "main.js": "/soccer-app-2.0/static/js/main.237926fd.chunk.js",
+    "main.js.map": "/soccer-app-2.0/static/js/main.237926fd.chunk.js.map",
+    "runtime-main.js": "/soccer-app-2.0/static/js/runtime-main.9b9a0f76.js",
+    "runtime-main.js.map": "/soccer-app-2.0/static/js/runtime-main.9b9a0f76.js.map",
+    "static/js/2.9680fa02.chunk.js": "/soccer-app-2.0/static/js/2.9680fa02.chunk.js",
+    "static/js/2.9680fa02.chunk.js.map": "/soccer-app-2.0/static/js/2.9680fa02.chunk.js.map",
+    "static/js/3.eb74347e.chunk.js": "/soccer-app-2.0/static/js/3.eb74347e.chunk.js",
+    "static/js/3.eb74347e.chunk.js.map": "/soccer-app-2.0/static/js/3.eb74347e.chunk.js.map",
+    "index.html": "/soccer-app-2.0/index.html",
+    "static/css/main.74145600.chunk.css.map": "/soccer-app-2.0/static/css/main.74145600.chunk.css.map",
+    "static/js/2.9680fa02.chunk.js.LICENSE.txt": "/soccer-app-2.0/static/js/2.9680fa02.chunk.js.LICENSE.txt",
+    "static/media/logo.d0704842.svg": "/soccer-app-2.0/static/media/logo.d0704842.svg",
+    "static/media/right-pattern.fa64ebf7.svg": "/soccer-app-2.0/static/media/right-pattern.fa64ebf7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.873fe42b.js",
+    "static/js/runtime-main.9b9a0f76.js",
     "static/js/2.9680fa02.chunk.js",
     "static/css/main.74145600.chunk.css",
     "static/js/main.237926fd.chunk.js"
